@@ -1,3 +1,9 @@
+
+function laCajaDePandora(numero){
+    // proximamente escribiremos codigo aqui
+    //asdasdasdSEBA
+    }
+=======
 function laCajaDePandora(numero) {
   if (numero % 2 === 0) {
     return numero.toString(2); // Convierte el número par a binario y lo retorna
@@ -6,6 +12,7 @@ function laCajaDePandora(numero) {
   }
 }
 
+
 function obtenerInformacionPersonal() {
   return {
     nombre: "Nombre",
@@ -13,6 +20,8 @@ function obtenerInformacionPersonal() {
     nacionalidad: "Nacionalidad",
   };
 }
+=======
+
 
 // Ejemplo de uso
 console.log(laCajaDePandora(10)); // Output: '1010' (10 en binario)
