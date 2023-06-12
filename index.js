@@ -1,5 +1,8 @@
+
 function laCajaDePandora(numero){
     // proximamente escribiremos codigo aqui
-        //convertime el pinche numero a pares y listooooooooooo
 
-    }
+
+const MESSI_MESSI_MESSI = (messi) => {
+  return messi;
+};
