@@ -18,3 +18,4 @@ function obtenerInformacionPersonal() {
 console.log(laCajaDePandora(10)); // Output: '1010' (10 en binario)
 console.log(laCajaDePandora(7)); // Output: '7' (7 en hexadecimal)
 console.log(obtenerInformacionPersonal());
+
