@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 
 function laCajaDePandora(numero){
     // proximamente escribiremos codigo aqui
@@ -6,3 +7,9 @@ function laCajaDePandora(numero){
 const MESSI_MESSI_MESSI = (messi) => {
   return messi;
 };
+=======
+function laCajaDePandora(numero) {
+  // proximamente escribiremos codigo aqui
+  //Hola
+}
+>>>>>>> Stashed changes
