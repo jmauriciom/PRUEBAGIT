@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function pablo() {
   return (
-    <div>Hola mundo cruel...aaa</div>
+    <div>Hola mundo cruel...aaa que tal</div>
   )
 }
